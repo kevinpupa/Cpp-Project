@@ -1,8 +1,6 @@
 # Project Name
 
-This project is the implementation of [Progetto Programmazione e Laboratorio A.A. 2023/2024
-
-](https://github.com/PEL-unive/progetto-23-24). 
+This project is the implementation of [Progetto Programmazione e Laboratorio A.A. 2023/2024](https://github.com/PEL-unive/progetto-23-24). 
 
 ## License
 
